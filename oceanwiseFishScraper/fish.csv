@@ -1,0 +1,128 @@
+Name,Variety,Image Path,Recommended?,Method,Location,Rating
+Abalone,Abalone,./images/abalone.png,Ocean Wise Recommended,Farmed,International,3.5
+Alfonsino,Alfonsino,./images/alfonsino.png,Ocean Wise Recommended,Wild,New Zealand (management areas BYX1 and BYX2),3.0
+Anchovy,European anchovy,./images/anchovy.png,Not Recommended,Wild,"Mediterranean Sea, Black Sea",2.0
+Anglerfish,,./images/anglerfish.png,Ocean Wise Recommended,Wild,Iceland,
+Barnacle,Gooseneck barnacle,./images/barnacle.png,Ocean Wise Recommended,Wild,British Columbia,4.7
+Barramundi,Barramundi,./images/barramundi.png,Ocean Wise Recommended,Farmed,"Van Phong Bay, Vietnam",3.4
+Bass,Hybrid striped bass,./images/bass.png,Ocean Wise Recommended,Farmed,US,3.4
+Black Sea Bass,"Atlantic Seabass, Black Perch, Chub, Rock Bass, Seabass, Tallywag",./images/blackseabass.png,Ocean Wise Recommended,Wild,"US Southern Mid-Atlantic, US Northern Mid Atlantic",3.8
+Bluefish,Bluefish,./images/bluefish.png,Ocean Wise Recommended,Wild,Northern Atlantic US,4.3
+Bluenose,"Antarctic butterfish, deepsea trevalla, bluenose seabass",./images/bluenose.png,Not Recommended,Wild,New Zealand,2.3
+Capelin,"Smelt, smelt roe, masago",./images/capelin.png,Ocean Wise Recommended,Wild,"Canada: Gulf of St. Lawrence (4RST), Canada: North Atlantic (NAFO 2J3KLPs)",3.0
+Carp,Carp,./images/carp.png,Ocean Wise Recommended,Farmed,Worldwide,
+Catfish,Channel catfish,./images/catfish.png,Ocean Wise Recommended,Farmed,US,3.8
+Caviar/Roe,Shortnose sturgeon,./images/caviarroe.png,Ocean Wise Recommended,Farmed,"Canada, New Brunswick",3.4
+Char,Arctic char,./images/char.png,Ocean Wise Recommended,Wild,Canada: Nunavut: Cambridge Bay,3.5
+Chilean Seabass,Patagonian toothfish,./images/chileanseabass.png,Ocean Wise Recommended,Wild,Heard Island and McDonald islands,1.9
+Clams,Geoduck,./images/clams.png,Ocean Wise Recommended,Farmed,"Washington State, USA &amp; British Columbia, Canada",3.1
+Cobia,Cobia,./images/cobia.png,Ocean Wise Recommended,Wild,"US Atlantic, US Gulf of Mexico",3.5
+Cockle,Cockle,./images/cockle.png,Ocean Wise Recommended,,New Zealand,3.5
+Cod,"Pacific cod, grey cod",./images/cod.png,Ocean Wise Recommended,Wild,"California, Oregon, Washington",3.1
+Conch,"Queen conch, Pink conch",./images/conch.png,Ocean Wise Recommended,Wild,Caribbean Sea: US Virgin Islands,2.8
+Crab,Southern Tanner Crab,./images/crab.png,Ocean Wise Recommended,Wild,Alaska Bering Sea,4.4
+Crayfish,"Crayfish (Crawfish, Crawdad)",./images/crayfish.png,Ocean Wise Recommended,Farmed,US,3.8
+Croaker,Atlantic croaker,./images/croaker.png,Ocean Wise Recommended,Wild,US Atlantic Ocean,3.0
+Dab,Atlantic croaker,./images/dab.png,,,,
+Drum,Red drum,./images/drum.png,Ocean Wise Recommended,Farmed,"Texas, US",3.4
+Eel,"American eel (Freshwater eel, unagi)",./images/eel.png,Not Recommended,Farmed,"South Korea, Japan, Taiwan, China",0.5
+Eulachon,Eulachon,./images/eulachon.png,Not Recommended,Wild,BC,2.3
+Flounder,Arrowtooth flounder,./images/flounder.png,Ocean Wise Recommended,Wild,"Alaska, California, Washington, Oregon",3.3
+Greenling,Kelp greenling,./images/greenling.png,Not Recommended,Wild,"Oregon, Washington, California",2.7
+Grenadier,Pacific grenadier,./images/grenadier.png,Ocean Wise Recommended,Wild,California,3.1
+Grouper,Black grouper,./images/grouper.png,Ocean Wise Recommended,Wild,"S. Atlantic, Gulf of Mexico",3.2
+Haddock,Haddock,./images/haddock.png,Ocean Wise Recommended,Wild,US - Georges Bank,2.9
+Hake,Offshore hake,./images/hake.png,Ocean Wise Recommended,Wild,US Atlantic,2.8
+Halibut,Atlantic halibut,./images/halibut.png,Ocean Wise Recommended,Farmed,Worldwide,3.5
+Herring,"Atlantic herring (""sardines"", pilchard)",./images/herring.png,Ocean Wise Recommended,Wild,US N. Atlantic,4.4
+Hogfish,hogfish,./images/hogfish.png,Ocean Wise Recommended,Wild,"Florida Gulf of Mexico, South Carolina",3.1
+Hoki,Hoki,./images/hoki.png,Ocean Wise Recommended,Wild,New Zealand,
+Icefish,Australia mackerel icefish,./images/icefish.png,Ocean Wise Recommended,Wild,Heard Island and McDonald Islands,
+Krill,Pacific Krill,./images/krill.png,Ocean Wise Recommended,Wild,British Columbia,3.4
+Limpet,Atlantic Slipper Limpet,./images/limpet.png,Ocean Wise Recommended,Wild,"Bay of Cancale, ICES area VIIe. FAO statistical area 27",
+Ling,Ling,./images/ling.png,Ocean Wise Recommended,Wild,Icelandic EEZ,
+Lingcod,"Lingcod (Buffalo cod, blue cod, white cod)",./images/lingcod.png,Ocean Wise Recommended,Wild,British Columbia,3.4
+Lionfish,Lionfish,./images/lionfish.png,Ocean Wise Recommended,Wild,US Atlantic &amp; Gulf of Mexico,3.8
+Lobster,Norway lobster,./images/lobster.png,Ocean Wise Recommended,Wild,"Kattegat Bay, Norway",2.8
+Lumpfish,Lumpfish,./images/lumpfish.png,Ocean Wise Recommended,Wild,Greenland - North-west Atlantic,
+Mackerel,Atlantic mackerel,./images/mackerel.png,Ocean Wise Recommended,Wild,US,3.3
+Mahi Mahi,Mahi mahi (dolphinfish),./images/mahimahi.png,Ocean Wise Recommended,Wild,US Atlantic,3.4
+Manila clam,Clams,./images/manilaclam.png,Not Recommended,Wild,"Poole Harbour, England",
+Marlin,Blue marlin,./images/marlin.png,Ocean Wise Recommended,Wild,Hawaii (East and West),3.0
+Menhaden,Atlantic menhaden,./images/menhaden.png,Ocean Wise Recommended,Wild,US Atlantic,3.1
+Milkfish,Milkfish,./images/milkfish.png,Ocean Wise Recommended,Farmed,Worldwide,
+Monkfish,"Goosefish, anglerfish",./images/monkfish.png,Not Recommended,Wild,US Atlantic,2.5
+Mullet,Striped mullet,./images/mullet.png,Ocean Wise Recommended,Wild,US Atlantic and Gulf of Mexico,3.7
+Mussels,Green mussel,./images/mussels.png,Ocean Wise Recommended,Farmed,New Zealand (most),4.0
+Norway pout,Pout,./images/norwaypout.png,Ocean Wise Recommended,Wild,"The North Sea, Norway",
+Octopus,Giant Pacific octopus,./images/octopus.png,Ocean Wise Recommended,Wild,"British Columbia, Alaska",3.4
+Opah,aka Moonfish,./images/opah.png,Not Recommended,Wild,"Hawaii, Pacific Ocean (North, South, WCPO)",0.9
+Orange Roughy,aka Slimehead,./images/orangeroughy.png,Not Recommended,Wild,New Zealand,1.9
+Oysters,Eastern oyster,./images/oysters.png,Ocean Wise Recommended,Wild,US Gulf of Mexico,3.4
+Perch,Yellow perch,./images/perch.png,Ocean Wise Recommended,Wild,"Canada (Lake Erie, Lake Huron, Lake Ontario, Lake Superior) &amp; US (Lake Huron, Lake Michigan, Lake Ontario, Lake Superior)",3.0
+Pike,Northern pike,./images/pike.png,Not Recommended,Wild,Manitoba,1.5
+Plaice,Alaska Plaice,./images/plaice.png,Ocean Wise Recommended,Wild,Alaska,3.5
+Pollock,Atlantic pollock,./images/pollock.png,Ocean Wise Recommended,Wild,Gulf of Maine,2.8
+Pomfret,Bigscale pomfret,./images/pomfret.png,Not Recommended,Wild,Hawaii,2.7
+Pompano,Florida pompano,./images/pompano.png,Ocean Wise Recommended,Wild,US,3.6
+Porgy,"Red porgy, Seabream, Silver snapper, Tai",./images/porgy.png,Not Recommended,Wild,"US Atlantic, Gulf of Mexico",
+Recirculating Aquaculture Systems (RAS),"Red porgy, Seabream, Silver snapper, Tai",./images/recirculatingaquaculturesystems(ras).png,,,,
+Redfish,Acadian redfish,./images/redfish.png,Ocean Wise Recommended,Wild,US Atlantic,3.0
+Rockfish,Shortspine thornyhead,./images/rockfish.png,Ocean Wise Recommended,Wild,"Alaska, California, Washington, Oregon",3.0
+Sablefish,"Sablefish, black cod, butterfish",./images/sablefish.png,Ocean Wise Recommended,Wild,British Columbia,3.0
+Saithe,Saithe,./images/saithe.png,Ocean Wise Recommended,Wild,Iceland,
+Salmon (Atlantic),Atlantic salmon (Blue Circle Brand only),./images/salmon(atlantic).png,Ocean Wise Recommended,Farmed,Norway - Kvaroy and Selsoyvik farms only,3.0
+Salmon (Chinook),Chinook salmon,./images/salmon(chinook).png,Ocean Wise Recommended,Wild,"BC north coast, BC central coast, Transboundary Canada, Area D",3.3
+Salmon (Chum),Chum salmon,./images/salmon(chum).png,Ocean Wise Recommended,Wild,United States: Washington North Pacific,2.9
+Salmon (Coho),Coho salmon,./images/salmon(coho).png,Ocean Wise Recommended,Wild,Washington North Pacific,2.8
+Salmon (Pink),Pink salmon,./images/salmon(pink).png,Ocean Wise Recommended,Wild,Washington,2.9
+Salmon (Sockeye),Sockeye salmon (Early summer run),./images/salmon(sockeye).png,Ocean Wise Recommended,Wild,"Washington - Lummi Island, San Juan Island",3.5
+Sanddab,Pacific sanddab,./images/sanddab.png,Ocean Wise Recommended,Wild,"Washinton, Oregon, California",3.6
+Sandeel,,./images/sandeel.png,Ocean Wise Recommended,Wild,The North Sea,
+Sardine,Sardine,./images/sardine.png,Ocean Wise Recommended,Wild,Bay of Biscay,2.0
+Sardinella,Sardine,./images/sardinella.png,Not Recommended,Wild,Brazil,1.4
+Scad,Mackerel scad,./images/scad.png,Ocean Wise Recommended,Wild,Hawaii,3.5
+Scallop,Weathervane scallop,./images/scallop.png,Ocean Wise Recommended,Wild,Alaska,3.8
+Scup/ Porgy,"aka Fairmaid, Ironside, Scuppaug",./images/scupporgy.png,Ocean Wise Recommended,Wild,US: mid-Atlantic,3.2
+"Sea bass, European","European seabass, branzino","./images/seabass,european.png",Ocean Wise Recommended,,,3.5
+Sea Bream,Gilthead seabream,./images/seabream.png,Not Recommended,Farmed,Mediterranean Sea,2.3
+Sea Cucumber,Giant Red Sea Cucumber,./images/seacucumber.png,Ocean Wise Recommended,Wild,British Columbia,4
+Seaweed,Seaweed,./images/seaweed.png,Ocean Wise Recommended,Farmed,Worldwide,4.0
+Shad,Seaweed,./images/shad.png,,,,
+Shark,Spiny dogfish,./images/shark.png,Ocean Wise Recommended,Wild,"Washington, Oregon, California",3.3
+Shrimp/Prawns,Giant Tiger Prawn,./images/shrimpprawns.png,Ocean Wise Recommended,Farmed,Myanmar,3.9
+Skate,Big skate,./images/skate.png,Ocean Wise Recommended,Wild,British Columbia,2.9
+Smelt,Rainbow smelt,./images/smelt.png,Ocean Wise Recommended,Wild,US (Lake Superior),4.1
+Snapper,Mutton snapper,./images/snapper.png,Ocean Wise Recommended,Wild,"US Gulf of Mexico, US South Atlantic",3.8
+Sole,Flathead sole,./images/sole.png,Ocean Wise Recommended,Wild,Alaska,3.5
+Spearfish,Shortbill spearfish,./images/spearfish.png,Not Recommended,Wild,"Hawaii, Pacific Imported",2.7
+Spotted Seatrout,Shortbill spearfish,./images/spottedseatrout.png,,,,
+Sprat,European Sprat,./images/sprat.png,Ocean Wise Recommended,Wild,Northeast Atlantic,
+Squid,"Humboldt squid, jumbo squid",./images/squid.png,Ocean Wise Recommended,Wild,"Chile, Peru",3.2
+Steelhead,Steelhead,./images/steelhead.png,Ocean Wise Recommended,Farmed,"Lois Lake, Canada",N/A
+Sturgeon,Beluga sturgeon,./images/sturgeon.png,Ocean Wise Recommended,Farmed,US,3.8
+Swordfish,Swordfish,./images/swordfish.png,Ocean Wise Recommended,Wild,"Atlantic Canada, US, Hawaii",4.1
+Tilapia,Tilapia,./images/tilapia.png,Ocean Wise Recommended,Farmed,Ecuador,3.5
+Tilefish,Golden tilefish,./images/tilefish.png,Ocean Wise Recommended,Wild,Western Atlantic (East Coast of North America),3.6
+Triggerfish,Gray triggerfish,./images/triggerfish.png,Not Recommended,Wild,"US Gulf of Mexico, US South Atlantic",2.4
+Trout,"Rainbow trout, steelhead",./images/trout.png,Ocean Wise Recommended,Farmed,United States,3.4
+Tuna (Albacore),Albacore tuna,./images/tuna(albacore).png,Ocean Wise Recommended,Wild,Pacific Ocean (excluding Hawaii),3.8
+Tuna (Bigeye),Bigeye tuna,./images/tuna(bigeye).png,Ocean Wise Recommended,Wild,Hawaii,3
+Tuna (Blackfin),Blackfin tuna,./images/tuna(blackfin).png,Not Recommended,Wild,Atlantic Ocean,2.7
+Tuna (Bluefin),Southern Bluefin tuna,./images/tuna(bluefin).png,Not Recommended,Wild,"Pacific Ocean, Indian Ocean",1.9
+Tuna (Skipjack),Skipjack tuna,./images/tuna(skipjack).png,Ocean Wise Recommended,Wild,East Pacific Ocean,3.13
+Tuna (Tongol),Tongol tuna,./images/tuna(tongol).png,Ocean Wise Recommended,Wild,Western Central Pacific Ocean (Malaysia and Thailand),2.9
+Tuna (Yellowfin),Yellowfin tuna,./images/tuna(yellowfin).png,Ocean Wise Recommended,Wild,East Pacific Ocean,3
+Turbot,Greenland halibut; Greenland turbot,./images/turbot.png,Ocean Wise Recommended,Wild,Alaska,3.1
+Urchin,"Green sea urchin, red sea urchin, uni",./images/urchin.png,Ocean Wise Recommended,Wild,"BC, Atlantic Canada",N/A
+Vendance,Vendance,./images/vendance.png,Ocean Wise Recommended,Wild,"FAO 27 Atlantic,  ICES subdivision area IIIa, 31",
+Wahoo,Wahoo (Pacific kingfish),./images/wahoo.png,Ocean Wise Recommended,Wild,US: Pacific (Hawaii) and US Atlantic,3.3
+Walleye,Walleye,./images/walleye.png,Ocean Wise Recommended,Wild,"Minnesota, Red Lake",4.1
+Weakfish,Walleye,./images/weakfish.png,,,,
+Whelk,Whelk,./images/whelk.png,Ocean Wise Recommended,,"Normandy, France",
+White Seabass,White seabass,./images/whiteseabass.png,Ocean Wise Recommended,Wild,California,3.1
+"Whitefish, Lake",Lake whitefish,"./images/whitefish,lake.png",Ocean Wise Recommended,Wild,"Canada (Lake Erie, Lake Huron, Lake Ontario, Lake Superior) &amp; US (Lake Huron, Lake Erie, Lake Michigan - Wisconsin and Michigan, Lake Superior - Michigan)",3.1
+Whiting,Blue whiting,./images/whiting.png,Ocean Wise Recommended,Wild,North east Atlantic. FAO statistical area 27,
+Wolffish,Atlantic Wolffish,./images/wolffish.png,Ocean Wise Recommended,,Northeast Atlantic (FAO 27),
+Wreckfish,aka Sea bass,./images/wreckfish.png,Ocean Wise Recommended,Wild,US NorthAtlantic,N/A
+Yellowtail,California yellowtail,./images/yellowtail.png,Ocean Wise Recommended,Wild,California,3.4
